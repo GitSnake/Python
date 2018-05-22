@@ -1,3 +1,2 @@
-print('hello')
-print('hello')
-print('hello')
+for a in range(10):
+    print('hello');
