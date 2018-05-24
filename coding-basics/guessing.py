@@ -1,3 +1,3 @@
 import random
 n=random.randint(1,20)
-print(n)
+g=input('Guess my number ')
