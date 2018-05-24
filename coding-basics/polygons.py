@@ -1,4 +1,4 @@
 import turtle
-for s in range(8):
-    turtle.lt(45)
-    turtle.fd(100)
+for s in range(36):
+    turtle.lt(10)
+    turtle.fd(15)
