@@ -7,3 +7,6 @@ for n in range(4):
     turtle.forward(100)
     turtle.right(90)
 turtle.end_fill()
+turtle.pu()
+d=random.randint(1,6)
+turtle.color('white')
